@@ -25,8 +25,7 @@ int main()
             }
         }
     }
-    printf("\nYour String :");
-    printf("%s",a);
+    printf("\nYour String :%s",a);
 }
 // Enter a string :wefsjsdbk sadjhwur wehfff
 
