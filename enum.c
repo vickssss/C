@@ -2,11 +2,9 @@
 enum day {sun=1,mon,tue,wed,thu,fri,sat};
 int main()
 {
-    int n;
     enum day d;
     printf("Enter a number :");
-    scanf("%d",&n);
-    d=n;
+    scanf("%d",&d);
     if(sun==d || sat==d)
     printf("\nWeekend");
     else
