@@ -14,6 +14,8 @@ int main()
     }
     printf("\n%c found %d times in %s",ch,count,a);
 }
+
+
 // Enter a string :Shekhar kumar
 
 // Enter a character :k
